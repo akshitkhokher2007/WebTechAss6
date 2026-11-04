@@ -3,10 +3,6 @@
 **Name:** Akshit Khokher  
 **Group:** IT-2504
 
-## Run the project
-
-Open `index.html` in a browser with an internet connection. jQuery 3.7.1 loads from the CDN. There is no build step or installation.
-
 ## Part 1 — Getting Started with jQuery
 
 ### Task 0 — Setup
