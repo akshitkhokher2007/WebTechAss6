@@ -67,9 +67,6 @@ Three bars represent HTML, CSS and JavaScript from the skills list. They start a
 
 ![Task 8 — Animated skill bars](screenshots/task8.png)
 
-## Work process
-
-The project uses one HTML page, one stylesheet and one jQuery script. The sections follow the assignment task order. Local illustrations keep the gallery independent of external image services. Basic styling keeps the content readable on desktop and mobile. Each interaction was checked before capturing the screenshots.
 
 ## Files
 
@@ -79,14 +76,4 @@ The project uses one HTML page, one stylesheet and one jQuery script. The sectio
 - `images/` — two local gallery illustrations
 - `screenshots/` — task screenshots for this report
 
-## GitHub and GitHub Pages submission
 
-1. Extract the ZIP.
-2. Create a **public** GitHub repository such as `WebTechAss6`.
-3. Upload the **contents** of the `assignment6` folder to the repository root. Make sure `index.html` is at the root, alongside this README.
-4. Commit the files to `main`.
-5. Open repository **Settings → Pages**. Select **Deploy from a branch**, then `main` and `/ (root)`, and save.
-6. Wait for deployment and open the published address shown in Settings → Pages.
-7. Submit both the public repository URL and the published GitHub Pages URL to Moodle before the deadline.
-
-The ZIP is the local project. It does not create or publish a GitHub repository. Review the personal details and favorite choices before submitting, and practise explaining each jQuery method for the mandatory defense.
